@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Don't love or hate too much"
 Use the left arrow to go back!
